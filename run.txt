@@ -1,1 +1,4 @@
 There are many git command 
+git commit -m command for save repo
+git push command to send data or info to the directory
+
